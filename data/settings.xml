@@ -66,7 +66,7 @@
             </buff>
             <song>
                 <max>60</max>
-                <min>30</min>
+                <min>40</min>
             </song>
         </recast>
         <soul_voice>true</soul_voice>
