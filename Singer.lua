@@ -24,13 +24,13 @@ default = {
     nightingale=true,
     troubadour=true,
     debuffing=false,
-    recast={song={min=20,max=60},buff={min=5,max=10}},
+    recast={song={min=40,max=60},buff={min=5,max=10}},
     active=true,
     timers=true,
     aoe={['party']=true, ['p1'] = true,['p2'] = true,['p3'] = true,['p4'] = true,['p5'] = true},
-    min_ws=20,
+    min_ws=40,
     max_ws=99,
-    box={bg={visible=true},text={size=10},pos={x=650,y=0}},
+    box={bg={visible=true},text={size=10},pos={x=0,y=0}},
 }
 
 settings = config.load(default)

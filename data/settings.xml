@@ -55,8 +55,8 @@
         <delay>4</delay>
         <interval>0.1</interval>
         <marcato>Honor March</marcato>
-        <max_ws>99</max_ws>
-        <min_ws>20</min_ws>
+        <max_ws>60</max_ws>
+        <min_ws>40</min_ws>
         <nightingale>true</nightingale>
         <pianissimo>true</pianissimo>
         <recast>
