@@ -11,7 +11,7 @@ return {
         ["firestorm"] = L{},
     },
     ["song"] = T{
-        ["Celiy"] = L{"Mage's Ballad III",},
+        ["Sylvie"] = L{"Mage's Ballad III",},
         ["Koru-Moru"] = L{"Mage's Ballad III",},
     },
     ["songs"] = L{"Honor March","Valor Minuet III","Valor Minuet IV","Valor Minuet V","Aria of Passion",},
