@@ -50,7 +50,7 @@
                 </stroke>
             </text>
         </box>
-        <clarion>true</clarion>
+        <clarion>false</clarion>
         <debuffing>false</debuffing>
         <delay>4</delay>
         <interval>0.1</interval>
@@ -69,8 +69,8 @@
                 <min>40</min>
             </song>
         </recast>
-        <soul_voice>true</soul_voice>
-        <timers>true</timers>
+        <soul_voice>false</soul_voice>
+        <timers>false</timers>
         <troubadour>true</troubadour>
     </global>
 </settings>
