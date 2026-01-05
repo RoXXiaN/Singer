@@ -24,7 +24,7 @@ default = {
     nightingale=true,
     troubadour=true,
     debuffing=false,
-    recast={song={min=40,max=60},buff={min=5,max=10}},
+    recast={song={min=50,max=60},buff={min=5,max=10}},
     active=true,
     timers=true,
     aoe={['party']=true, ['p1'] = true,['p2'] = true,['p3'] = true,['p4'] = true,['p5'] = true},

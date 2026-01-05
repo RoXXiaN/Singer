@@ -22,7 +22,7 @@
             <flags>
                 <bold>false</bold>
                 <bottom>false</bottom>
-                <draggable>false</draggable>
+                <draggable>true</draggable>
                 <italic>false</italic>
                 <right>false</right>
             </flags>
@@ -66,11 +66,24 @@
             </buff>
             <song>
                 <max>60</max>
-                <min>40</min>
+                <min>50</min>
             </song>
         </recast>
         <soul_voice>false</soul_voice>
         <timers>false</timers>
         <troubadour>true</troubadour>
     </global>
+    <miany>
+        <actions>true</actions>
+        <active>false</active>
+        <box>
+            <text>
+                <fonts>
+
+                </fonts>
+            </text>
+        </box>
+        <clarion>true</clarion>
+        <soul_voice>true</soul_voice>
+    </miany>
 </settings>
